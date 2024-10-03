@@ -17,4 +17,4 @@ else:
 
 print(result)
 
-print("feature-branch1 충돌1")
+print("feature-branch2 충돌2")
