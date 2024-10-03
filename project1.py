@@ -8,6 +8,10 @@ if op == "+":
     result = num1 + num2
 elif op == "-":
     result = num1 - num2
+elif op == "*":
+    result = num1 * num2
+elif op == "/":
+    result = num1 / num2
 else:
     print("잘못 입력했습니다.")
 
